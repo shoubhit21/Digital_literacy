@@ -33,7 +33,7 @@ The project is organized into five tasks, each corresponding to a course module.
 |------|--------|--------------|
 | **Task 1** | Digital Literacy Awareness | Infographic (Canva) |
 | **Task 2** | Build Your Student Digital Portfolio | GitHub Profile, LinkedIn, Kaggle | 
-| **Task 3** | Coding website, Google Form & Sheet link | 
+| **Task 3** | Coding website, Google Form & Sheet link | HackerRank, Digital Awareness quiz|
 | **Task 4** | Email Etiquette & Social Media | Professional email drafts, Social Media Do's/Don'ts checklist | 
 | **Task 5** | Cybercrime Awareness | Case study, Prevention checklist | 
 
