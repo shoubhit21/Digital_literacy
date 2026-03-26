@@ -1,56 +1,71 @@
-# CSE0001: Digital Literacy Portfolio
+# Digital Literacy Portfolio
 
-## 👤 Student Information
+## Student Digital Ambassador Project
 
-### - Name: Shoubhit Pramanick
-### - Registration Number:25BCE10083
-### - Branch: B.Tech CSE Core
-### - University: VIT Bhopal University
-### - Role: Student Digital Ambassador
+**Course:** CSE0001 - Digital Literacy  
 
-## 🚀 Project Overview
+---
 
-This repository contains the complete portfolio for the Digital Literacy (CSE0001) course.As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally . This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
+## Student Information
 
-## 📂 Repository Structure
+| Field | Details |
+|-------|---------|
+| **Name** | Shoubhit Pramanick |
+| **Registration Number** | 25BCE10083 |
+| **Branch** | CSE Core |
+| **Year** | First Year B.Tech |
 
-This project is organized into specific folders for each module as per the assignment brief:
+---
 
-| Folder / File | Description |
-| :--- | :--- |
-| `report/` | Contains the full **Project_Report.pdf** covering all 5 tasks. |
-| `task-1-presentation/` | Digital Literacy Awareness Infographic and design description. |
-| `task-2-portfolio/` | Screenshots of professional profiles (GitHub, LinkedIn, Kaggle). |
-| `task-3-platforms/` | Proof of coding challenges and the **Digital Literacy Quiz** link. |
-| `task-4-email-etiquette/` | Professional email drafts and Social Media Do's/Don'ts. |
-| `task-5-cybercrime/` | Phishing Case Study and a student-focused Prevention Checklist. |
+## Project Overview
 
-## Module Summaries
+This repository serves as my Digital Literacy Portfolio, created as part of the CSE0001 course project. In the scenario, I am a newly appointed Student Digital Ambassador tasked with helping my peers navigate the digital world responsibly and professionally.
 
-### 🔹 Module 1: Digital Awareness
-Created a one-page visual resource using Canva to define digital literacy and promote safe internet practices for first-year students.
+This portfolio showcases my work across five key digital literacy modules. It includes visual resources, professional profiles, practical exercises, and awareness materials—all organized to demonstrate a comprehensive understanding of digital tools, online safety, and professional communication.
 
-### 🔹 Module 2: Professional Identity
-Established a technical presence on GitHub, LinkedIn, and Kaggle.My GitHub profile includes a customized README detailing my focus on AI & ML.
+---
 
-### 🔹 Module 3: Collaboration & Coding
-Completed beginner-level Python challenges on hackerRank and developed a 5-question awareness quiz using Google Forms.
+## Repository Structure & Task Summary
 
-#Quiz Link: (https://github.com/shoubhit21/Digital_literacy)
+The project is organized into five tasks, each corresponding to a course module. All deliverables are contained within the folders linked below.
 
-### 🔹 Module 4: Effective Communication
-Drafted professional correspondence for academic extensions and internship inquiries.Also compiled a 10-point checklist for responsible social media usage.
+| Task | Module | Deliverables | Status |
+|------|--------|--------------|--------|
+| **Task 1** | Digital Literacy Awareness | Infographic (Canva/Prezi) |
+| **Task 2** | Build Your Student Digital Portfolio | GitHub Profile, LinkedIn + other platforms | 
+| **Task 3** | Explore Coding & Collaboration Platforms | Coding challenge screenshot + Google Form & Sheet link | 
+| **Task 4** | Email Etiquette & Social Media | Professional email drafts + Social Media Do's/Don'ts checklist | 
+| **Task 5** | Cybercrime Awareness | Case study + Prevention checklist | 
 
-### 🔹 Module 5: Cybersecurity
-Researched a detailed case study on Phishing and provided a 'Stay Safe Online' guide featuring the National Cyber Crime Helpline (1930).
+---
 
-## Conclusion
+## Quick Links & Resources
 
-Through this project, I have transitioned from a digital user to a digital creator and leader. These skills in version control, professional etiquette, and online safety are foundational to my future career in Artificial Intelligence.
+| Task | Tool / Platform | Link / Resource |
+|------|-----------------|-----------------|
+| Task 1 | Canva (Infographic) | (https://www.canva.com) |
+| Task 2 | GitHub Profile | (https://github.com/shoubhit21/Digital_literacy) |
+| Task 2 | LinkedIn Profile | (https://www.linkedin.com/in/shoubhit-pramanick-a778813b9/) |
+| Task 3 | Coding Platform (HackerRank) | (https://www.hackerrank.com/profile/shoubhit_pm213) |
+| Task 3 | Google Form | (https://forms.gle/v66z8YaHWqfopW6K8) |
+| Task 5 | National Cyber Crime Portal | (https://cybercrime.gov.in) |
 
-## 📚 References & Tools
+---
 
-Design: Canva
-Version Control: GitHub
-Coding:HackerRank
-Safety:National Cyber Crime Portal
+## How to Navigate This Repository
+
+1.  **Start with the `report/` folder** to view the complete project documentation, including detailed reflections for each task.
+2.  **Explore each `task-X` folder** to see the specific deliverables (screenshots, documents, checklists) mentioned in the project brief.
+3.  **Refer to this README** for a quick overview, structure, and key links.
+
+---
+
+## Contact
+
+For any questions or feedback regarding this project, please feel free to reach out.
+
+- **Email:** shoubhit.25bce10083@vitbhopal.ac.in
+- **GitHub:** [(https://github.com/shoubhit21/Digital_literacy)
+- **LinkedIn:** (https://www.linkedin.com/in/shoubhit-pramanick-a778813b9/)
+
+---
