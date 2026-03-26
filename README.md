@@ -29,8 +29,8 @@ This portfolio showcases my work across five key digital literacy modules. It in
 
 The project is organized into five tasks, each corresponding to a course module. All deliverables are contained within the folders linked below.
 
-| Task | Module | Deliverables | Status |
-|------|--------|--------------|--------|
+| Task | Module | Deliverables |
+|------|--------|--------------|
 | **Task 1** | Digital Literacy Awareness | Infographic (Canva/Prezi) |
 | **Task 2** | Build Your Student Digital Portfolio | GitHub Profile, LinkedIn + other platforms | 
 | **Task 3** | Explore Coding & Collaboration Platforms | Coding challenge screenshot + Google Form & Sheet link | 
