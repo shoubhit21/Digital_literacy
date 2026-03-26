@@ -31,11 +31,11 @@ The project is organized into five tasks, each corresponding to a course module.
 
 | Task | Module | Deliverables |
 |------|--------|--------------|
-| **Task 1** | Digital Literacy Awareness | Infographic (Canva/Prezi) |
-| **Task 2** | Build Your Student Digital Portfolio | GitHub Profile, LinkedIn + other platforms | 
-| **Task 3** | Explore Coding & Collaboration Platforms | Coding challenge screenshot + Google Form & Sheet link | 
-| **Task 4** | Email Etiquette & Social Media | Professional email drafts + Social Media Do's/Don'ts checklist | 
-| **Task 5** | Cybercrime Awareness | Case study + Prevention checklist | 
+| **Task 1** | Digital Literacy Awareness | Infographic (Canva) |
+| **Task 2** | Build Your Student Digital Portfolio | GitHub Profile, LinkedIn, Kaggle | 
+| **Task 3** | Coding website, Google Form & Sheet link | 
+| **Task 4** | Email Etiquette & Social Media | Professional email drafts, Social Media Do's/Don'ts checklist | 
+| **Task 5** | Cybercrime Awareness | Case study, Prevention checklist | 
 
 ---
 
@@ -49,14 +49,6 @@ The project is organized into five tasks, each corresponding to a course module.
 | Task 3 | Coding Platform (HackerRank) | (https://www.hackerrank.com/profile/shoubhit_pm213) |
 | Task 3 | Google Form | (https://forms.gle/v66z8YaHWqfopW6K8) |
 | Task 5 | National Cyber Crime Portal | (https://cybercrime.gov.in) |
-
----
-
-## How to Navigate This Repository
-
-1.  **Start with the `report/` folder** to view the complete project documentation, including detailed reflections for each task.
-2.  **Explore each `task-X` folder** to see the specific deliverables (screenshots, documents, checklists) mentioned in the project brief.
-3.  **Refer to this README** for a quick overview, structure, and key links.
 
 ---
 
